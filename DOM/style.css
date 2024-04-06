@@ -1,0 +1,16 @@
+#myid{
+    color:aqua;
+    background-color: rgb(85, 94, 36);
+    text-decoration:dotted;
+}
+
+.myclass{
+    color:rgb(224, 217, 224);
+    background-color: rgb(128, 95, 205);
+    text-decoration:dotted;
+}
+
+body{
+    background-color: blanchedalmond;
+    color: rebeccapurple;
+}
